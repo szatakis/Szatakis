@@ -15,17 +15,12 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szatakis\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szatakis&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szatakis\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szatakis&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-## 🔥 Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=szatakis\&theme=tokyonight)
-
----
-
-> *"Code, learn, improve, repeat."* 🚀
+![GitHub Streak](https://streak-stats.demolab.com?user=szatakis&theme=tokyonight)
