@@ -23,7 +23,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=szatakis&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=szatakis&theme=tokyonight)
 
 ## My Contribution Snake 🐍
 
